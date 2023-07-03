@@ -9,12 +9,13 @@
     "server": "hexo server"
   },
   "hexo": {
-    "version": "4.2.0"
+    "version": "5.4.1"
   },
   "dependencies": {
     "hexo": "^5.4.1",
     "hexo-abbrlink": "^2.2.1",
     "hexo-bilibili-bangumi": "^1.8.2",
+    "hexo-deployer-git": "^4.0.0",
     "hexo-douban": "^2.1.0",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-calendar": "git://github.com/howiefh/hexo-generator-calendar.git",
